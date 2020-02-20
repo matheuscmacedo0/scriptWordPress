@@ -1,0 +1,72 @@
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('458', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":446,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-2.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-2', '', 'draft', 'open', 'open', '', '2', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=458', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('460', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":447,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-3.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-3', '', 'draft', 'open', 'open', '', '3', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=460', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('462', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":448,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-4.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-4', '', 'draft', 'open', 'open', '', '4', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=462', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('464', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":449,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-5.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-5', '', 'draft', 'open', 'open', '', '5', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=464', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('466', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":450,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-6.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-6', '', 'draft', 'open', 'open', '', '6', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=466', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('468', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":451,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-7.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-7', '', 'draft', 'open', 'open', '', '7', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=468', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('470', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":452,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-8.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-8', '', 'draft', 'open', 'open', '', '8', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=470', '0', 'post', '', '0');
+INSERT INTO `wsrnp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, 
+`post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, 
+`to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, 
+`menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES ('472', '1', '2017-02-20 10:07:34', 
+'2017-02-20 13:07:34', 
+'<!-- wp:pdfemb/pdf-embedder-viewer {"pdfID":453,"url":"http://localhost/sindsuperrn/wp-content/uploads/2020/02/doc-9.pdf"} -->
+<p class="wp-block-pdfemb-pdf-embedder-viewer"></p>
+<!-- /wp:pdfemb/pdf-embedder-viewer -->', 
+'doc-9', '', 'draft', 'open', 'open', '', '9', '', '', '2017-02-20 10:07:34', '2017-02-20 13:07:34', '', '0', 'http://localhost/sindsuperrn/?p=472', '0', 'post', '', '0');
